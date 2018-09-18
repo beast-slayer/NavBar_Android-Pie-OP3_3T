@@ -17,7 +17,7 @@ v1.0 - Initial Release
 ## Requirements
 - OnePlus /3T
 - Android P based rom
-- Latest Magisk Beta 
+- Latest Magisk Beta v16.7+
 
 ## Instructions
 TO Enable:
