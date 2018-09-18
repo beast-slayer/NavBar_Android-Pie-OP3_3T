@@ -1,7 +1,7 @@
 id=Navigation_Bar
-name=Navigation Bar Enabler - OnePlus 3/3T (Android P)
+name=Navigation Bar (Disable HW) OnePlus 3/3T (9.0 Pie)
 version=v1.0
 versionCode=000100000
 author=Biplov aka Beast_slayer
-description=Enables On Screen Naigation bars for OnePlus 3/3T.
+description=Enables On Screen Naigation bars for OnePlus 3/3T and disable hw keys plus backlight
 minMagisk=1671
